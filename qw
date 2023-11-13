@@ -1,0 +1,12 @@
+feat: Viewの実装 Bladeをセクションごとに分割できるように
+
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+#
+# Date:      Wed Nov 8 15:41:25 2023 +0900
+#
+# On branch develop/laravel_todo_app
+# Changes to be committed:
+#	new file:   src/resources/views/layouts/base.blade.php
+#	modified:   src/resources/views/todo/create.blade.php
+#
